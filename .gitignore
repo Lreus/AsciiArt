@@ -1,0 +1,4 @@
+# Intellij IDE PhpStorm files
+.idea/
+# Project dependencies
+vendor/
